@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Job Directory",
+  "name": "React App Job Directory",
   "icons": [
     {
       "src": "favicon.ico",
