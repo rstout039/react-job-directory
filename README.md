@@ -4,3 +4,5 @@ The user can enter a specific job that they want in the searchbox <br> As well a
 The user has several options and can interact with the app by clicking previous and next pages for more.<br>
 This app uses the following npm packages: <br>
 Axios <br> React <br> React-bootstrap <br> React-dom <br> React-markdown <br> React-scripts <br> Webpack <br>
+Deployed app is: <br>
+https://rstout039.github.io/react-job-directory/.
